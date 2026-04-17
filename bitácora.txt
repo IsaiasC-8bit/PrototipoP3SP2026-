@@ -1,0 +1,41 @@
+commit b903453015a1edf01c436c216feae1d0b046d765
+Merge: 1a77d72 c14cd11
+Author: Isa <123830438+IsaiasC-8bit@users.noreply.github.com>
+Date:   Fri Apr 17 13:30:13 2026 -0600
+
+    Merge pull request #2 from IsaiasC-8bit/RamaMantenimientos9959_24_1672
+    
+    Vista y CRUD
+
+commit c14cd11311d6d2ff646973563a19f6d2d674ee4b
+Author: Isa <isaiascedillo1313@gmail.com>
+Date:   Fri Apr 17 13:28:18 2026 -0600
+
+    Vista y CRUD
+
+commit 1a77d72647974bffd036be322aecca672ee2689f
+Merge: deb2cfe 3797800
+Author: Isa <123830438+IsaiasC-8bit@users.noreply.github.com>
+Date:   Fri Apr 17 12:17:55 2026 -0600
+
+    Merge pull request #1 from IsaiasC-8bit/RamaContenedor9959_24_1672
+    
+    Creacion de modelo y conexion
+
+commit 3797800f0029cc54417742dd93a72dcad0d23d21
+Author: Isa <isaiascedillo1313@gmail.com>
+Date:   Fri Apr 17 12:16:23 2026 -0600
+
+    Creacion de modelo y conexion
+
+commit deb2cfe3075d91abc004420edeffd891e8388918
+Author: Isa <isaiascedillo1313@gmail.com>
+Date:   Fri Apr 17 11:54:39 2026 -0600
+
+    Controlador
+
+commit 6a6b1574c0c3ba8f9d9aed9eaad3d4e5fa51af95
+Author: Isa <123830438+IsaiasC-8bit@users.noreply.github.com>
+Date:   Fri Apr 17 11:38:46 2026 -0600
+
+    Create txt.txt
